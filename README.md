@@ -85,7 +85,7 @@
 >| ----------------------------- | -------------------- |
 >| .gitignore                    | git 忽略文件         |
 >| config.py                     | QQ机器人全局配置     |
->| LICENSE                       | MIT授权文件          |
+>| LICENSE                       | MIT许可证          |
 >| main.py                       | 机器人主函数         |
 >| README.md                     | 说明文档             |
 >| requirments.txt               | 项目代码主要依赖库   |
