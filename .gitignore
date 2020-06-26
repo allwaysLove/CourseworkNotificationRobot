@@ -1,3 +1,17 @@
+# user settings
+.idea/
+.vscode/
+bot/plugins/__pycache__/
+node_modules/
+bot_test.py
+get_test.py
+json.txt
+test.py
+package.json
+
+
+# default settings
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
